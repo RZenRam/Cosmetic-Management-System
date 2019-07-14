@@ -1,0 +1,52 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CosmeticMan
+</name>
+</assembly>
+<members>
+<member name="P:Cosmetic_Man.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Cosmetic_Man.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Cosmetic_Man.My.Resources.Resources._1524152809810084">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cosmetic_Man.My.Resources.Resources._8d428b1a_e11b_45aa_8030_9edc39b80eb8_screen_shot_2018_10_11_at_92758_pm">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cosmetic_Man.My.Resources.Resources.Beautify_Clear_Acrylic_Cosmetic_Makeup_Holder_and_Organizer_with_Two_Sided_Mirror">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cosmetic_Man.My.Resources.Resources.cosmetics">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cosmetic_Man.My.Resources.Resources.gb_blog_jcrpl">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cosmetic_Man.My.Resources.Resources.kylie_cosmetics_valentines_day_2019_738">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Cosmetic_Man.My.Resources.Resources.Slider_1___Green_Lipstick_Is_A_Neutral____Other_Lessons_From_NYX_Cosmetics">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Cosmetic_Man.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

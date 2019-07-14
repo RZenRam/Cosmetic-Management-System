@@ -1,0 +1,40 @@
+C:\Users\Guest User\Desktop\Cosmetic Man\Cosmetic Man\bin\Debug\Cosmetic Man.exe
+C:\Users\Guest User\Desktop\Cosmetic Man\Cosmetic Man\bin\Debug\Cosmetic Man.pdb
+C:\Users\Guest User\Desktop\Cosmetic Man\Cosmetic Man\bin\Debug\Cosmetic Man.xml
+C:\Users\Guest User\Desktop\Cosmetic Man\Cosmetic Man\obj\x86\Debug\Cosmetic_Man.bill.resources
+C:\Users\Guest User\Desktop\Cosmetic Man\Cosmetic Man\obj\x86\Debug\Cosmetic_Man.Resources.resources
+C:\Users\Guest User\Desktop\Cosmetic Man\Cosmetic Man\obj\x86\Debug\Cosmetic_Man.sales.resources
+C:\Users\Guest User\Desktop\Cosmetic Man\Cosmetic Man\obj\x86\Debug\Cosmetic_Man.stock.resources
+C:\Users\Guest User\Desktop\Cosmetic Man\Cosmetic Man\obj\x86\Debug\Cosmetic Man.vbproj.GenerateResource.Cache
+C:\Users\Guest User\Desktop\Cosmetic Man\Cosmetic Man\obj\x86\Debug\Cosmetic Man.exe
+C:\Users\Guest User\Desktop\Cosmetic Man\Cosmetic Man\obj\x86\Debug\Cosmetic Man.xml
+C:\Users\Guest User\Desktop\Cosmetic Man\Cosmetic Man\obj\x86\Debug\Cosmetic Man.pdb
+C:\Users\Guest User\Desktop\Cosmetic Man\Cosmetic Man\obj\x86\Debug\Cosmetic_Man.mmenu.resources
+C:\Users\Guest User\Desktop\Cosmetic Man\Cosmetic Man\obj\x86\Debug\Cosmetic Man.vbprojResolveAssemblyReference.cache
+C:\Users\Guest User\Desktop\Cosmetic Man\Cosmetic Man\bin\Debug\Cosmetic Man.exe.config
+C:\Users\Guest User\Desktop\Cosmetic Man\Cosmetic Man\obj\x86\Debug\Cosmetic_Man.salessearch.resources
+C:\Users\Guest User\Desktop\Cosmetic Man\Cosmetic Man\obj\x86\Debug\Cosmetic_Man.supplier.resources
+C:\Users\Guest User\Desktop\Cosmetic Man\Cosmetic Man\obj\x86\Debug\Cosmetic_Man.history.resources
+C:\Users\Guest User\Desktop\Cosmetic Man\Cosmetic Man\obj\x86\Debug\Cosmetic_Man.printin.resources
+C:\Users\Guest User\Desktop\Cosmetic Man\Cosmetic Man\obj\x86\Debug\RdlCompile.cache
+C:\Users\Guest User\Desktop\Cosmetic Man\Cosmetic Man\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Guest User\Desktop\Cosmetic Man\Cosmetic Man\obj\x86\Debug\Cosmetic_Man.login.resources
+G:\Developing\bak\Cosmetic Man\Cosmetic Man\bin\Debug\Cosmetic Man.exe.config
+G:\Developing\bak\Cosmetic Man\Cosmetic Man\obj\x86\Debug\Cosmetic Man.exe
+G:\Developing\bak\Cosmetic Man\Cosmetic Man\obj\x86\Debug\Cosmetic Man.xml
+G:\Developing\bak\Cosmetic Man\Cosmetic Man\obj\x86\Debug\Cosmetic Man.pdb
+G:\Developing\bak\Cosmetic Man\Cosmetic Man\obj\x86\Debug\Cosmetic Man.vbprojResolveAssemblyReference.cache
+G:\Developing\bak\Cosmetic Man\Cosmetic Man\obj\x86\Debug\Cosmetic_Man.bill.resources
+G:\Developing\bak\Cosmetic Man\Cosmetic Man\obj\x86\Debug\Cosmetic_Man.login.resources
+G:\Developing\bak\Cosmetic Man\Cosmetic Man\obj\x86\Debug\Cosmetic_Man.history.resources
+G:\Developing\bak\Cosmetic Man\Cosmetic Man\obj\x86\Debug\Cosmetic_Man.mmenu.resources
+G:\Developing\bak\Cosmetic Man\Cosmetic Man\obj\x86\Debug\Cosmetic_Man.Resources.resources
+G:\Developing\bak\Cosmetic Man\Cosmetic Man\obj\x86\Debug\Cosmetic_Man.sales.resources
+G:\Developing\bak\Cosmetic Man\Cosmetic Man\obj\x86\Debug\Cosmetic_Man.salessearch.resources
+G:\Developing\bak\Cosmetic Man\Cosmetic Man\obj\x86\Debug\Cosmetic_Man.stock.resources
+G:\Developing\bak\Cosmetic Man\Cosmetic Man\obj\x86\Debug\Cosmetic_Man.supplier.resources
+G:\Developing\bak\Cosmetic Man\Cosmetic Man\obj\x86\Debug\Cosmetic Man.vbproj.GenerateResource.Cache
+G:\Developing\bak\Cosmetic Man\Cosmetic Man\bin\Debug\Cosmetic Man.exe
+G:\Developing\bak\Cosmetic Man\Cosmetic Man\bin\Debug\Cosmetic Man.pdb
+G:\Developing\bak\Cosmetic Man\Cosmetic Man\bin\Debug\Cosmetic Man.xml
+G:\Developing\bak\Cosmetic Man\Cosmetic Man\obj\x86\Debug\Cosmetic_Man.printin.resources
